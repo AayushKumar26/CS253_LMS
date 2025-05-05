@@ -1,0 +1,50 @@
+1;The C++ Programming Language;Bjarne Stroustrup;Addison-Wesley;2013;9780321563842;Available;0;0
+2;The C++ Programming Language;Bjarne Stroustrup;Addison-Wesley;2013;9780321563842;Available;0;0
+3;The C++ Programming Language;Bjarne Stroustrup;Addison-Wesley;2013;9780321563842;Available;0;0
+4;The C++ Programming Language;Bjarne Stroustrup;Addison-Wesley;2013;9780321563842;Available;0;0
+5;The C++ Programming Language;Bjarne Stroustrup;Addison-Wesley;2013;9780321563842;Available;0;0
+6;Effective C++;Scott Meyers;O'Reilly;2005;9780321334879;Available;0;0
+7;Effective C++;Scott Meyers;O'Reilly;2005;9780321334879;Available;0;0
+8;Effective C++;Scott Meyers;O'Reilly;2005;9780321334879;Available;0;0
+9;Effective C++;Scott Meyers;O'Reilly;2005;9780321334879;Available;0;0
+10;Effective C++;Scott Meyers;O'Reilly;2005;9780321334879;Available;0;0
+11;Clean Code;Robert C. Martin;Prentice Hall;2008;9780132350884;Available;0;0
+12;Clean Code;Robert C. Martin;Prentice Hall;2008;9780132350884;Available;0;0
+13;Clean Code;Robert C. Martin;Prentice Hall;2008;9780132350884;Available;0;0
+14;Clean Code;Robert C. Martin;Prentice Hall;2008;9780132350884;Available;0;0
+15;Clean Code;Robert C. Martin;Prentice Hall;2008;9780132350884;Available;0;0
+16;Design Patterns;Erich Gamma et al.;Addison-Wesley;1994;9780201633610;Available;0;0
+17;Design Patterns;Erich Gamma et al.;Addison-Wesley;1994;9780201633610;Available;0;0
+18;Design Patterns;Erich Gamma et al.;Addison-Wesley;1994;9780201633610;Available;0;0
+19;Design Patterns;Erich Gamma et al.;Addison-Wesley;1994;9780201633610;Available;0;0
+20;Design Patterns;Erich Gamma et al.;Addison-Wesley;1994;9780201633610;Available;0;0
+21;Modern Operating Systems;Andrew Tanenbaum;Pearson;2014;9780133591620;Available;0;0
+22;Modern Operating Systems;Andrew Tanenbaum;Pearson;2014;9780133591620;Available;0;0
+23;Modern Operating Systems;Andrew Tanenbaum;Pearson;2014;9780133591620;Available;0;0
+24;Modern Operating Systems;Andrew Tanenbaum;Pearson;2014;9780133591620;Available;0;0
+25;Modern Operating Systems;Andrew Tanenbaum;Pearson;2014;9780133591620;Available;0;0
+26;Introduction to Algorithms;Cormen et al.;MIT Press;2009;9780262033848;Available;0;0
+27;Introduction to Algorithms;Cormen et al.;MIT Press;2009;9780262033848;Available;0;0
+28;Introduction to Algorithms;Cormen et al.;MIT Press;2009;9780262033848;Available;0;0
+29;Introduction to Algorithms;Cormen et al.;MIT Press;2009;9780262033848;Available;0;0
+30;Introduction to Algorithms;Cormen et al.;MIT Press;2009;9780262033848;Available;0;0
+31;Artificial Intelligence: A Modern Approach;Stuart Russell;Pearson;2009;9780136042594;Available;0;0
+32;Artificial Intelligence: A Modern Approach;Stuart Russell;Pearson;2009;9780136042594;Available;0;0
+33;Artificial Intelligence: A Modern Approach;Stuart Russell;Pearson;2009;9780136042594;Available;0;0
+34;Artificial Intelligence: A Modern Approach;Stuart Russell;Pearson;2009;9780136042594;Available;0;0
+35;Artificial Intelligence: A Modern Approach;Stuart Russell;Pearson;2009;9780136042594;Available;0;0
+36;The Pragmatic Programmer;Andrew Hunt;Addison-Wesley;1999;9780201616224;Available;0;0
+37;The Pragmatic Programmer;Andrew Hunt;Addison-Wesley;1999;9780201616224;Available;0;0
+38;The Pragmatic Programmer;Andrew Hunt;Addison-Wesley;1999;9780201616224;Available;0;0
+39;The Pragmatic Programmer;Andrew Hunt;Addison-Wesley;1999;9780201616224;Available;0;0
+40;The Pragmatic Programmer;Andrew Hunt;Addison-Wesley;1999;9780201616224;Available;0;0
+41;Code Complete;Steve McConnell;Microsoft Press;2004;9780735619678;Available;0;0
+42;Code Complete;Steve McConnell;Microsoft Press;2004;9780735619678;Available;0;0
+43;Code Complete;Steve McConnell;Microsoft Press;2004;9780735619678;Available;0;0
+44;Code Complete;Steve McConnell;Microsoft Press;2004;9780735619678;Available;0;0
+45;Code Complete;Steve McConnell;Microsoft Press;2004;9780735619678;Available;0;0
+46;Refactoring;Martin Fowler;Addison-Wesley;1999;9780201485677;Available;0;0
+47;Refactoring;Martin Fowler;Addison-Wesley;1999;9780201485677;Available;0;0
+48;Refactoring;Martin Fowler;Addison-Wesley;1999;9780201485677;Available;0;0
+49;Refactoring;Martin Fowler;Addison-Wesley;1999;9780201485677;Available;0;0
+50;Refactoring;Martin Fowler;Addison-Wesley;1999;9780201485677;Available;0;0

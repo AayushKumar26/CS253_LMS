@@ -1,0 +1,11 @@
+Student;1;alice;pass1;0
+Student;2;bob;pass2;0
+Student;3;charlie;pass3;0
+Student;4;diana;pass4;0
+Student;5;eric;pass5;0
+Faculty;6;profX;pass6;0
+Faculty;7;drY;pass7;0
+Faculty;8;mrZ;pass8;0
+Librarian;9;librarian1;admin1;0
+Librarian;10;librarian2;admin2;0
+Librarian;11;librarian3;admin3;0
