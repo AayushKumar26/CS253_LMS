@@ -1,4 +1,4 @@
-# Library Management System
+# Library Management System(LMS)
 
 ## Objective
 Design and implement a Library Management System (LMS) in C++ using Object-Oriented Programming (OOP) concepts. This system demonstrates abstraction, inheritance, polymorphism, and encapsulation to manage library operations such as borrowing books, returning them, calculating fines, and managing both users and the book collection.
